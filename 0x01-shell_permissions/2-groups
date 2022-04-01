@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod adm,cdrom,sudo,dip,plugdev,lpadmin,sambashare
